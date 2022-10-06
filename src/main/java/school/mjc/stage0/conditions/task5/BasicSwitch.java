@@ -2,7 +2,7 @@ package school.mjc.stage0.conditions.task5;
 
 public class BasicSwitch {
     public static void main(String[] args) {
-        int a = 4;
+        int a = 21;
         switch (a) {
 
             case 7:
